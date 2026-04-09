@@ -1,6 +1,4 @@
-Here is a professional and structured README.md for your GitHub repository. Since you're a tech professional, I've kept the tone clean and included the necessary technical sections.
 
-Markdown
 # Diwali Sales Analysis Dashboard 📊
 
 An interactive web application built with **Python** and **Streamlit** to analyze and visualize retail sales data. This project transforms raw CSV data into actionable insights, focusing on customer demographics, purchasing power, and product performance.
