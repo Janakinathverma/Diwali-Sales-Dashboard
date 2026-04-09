@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Virtual Environment
+myenv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit logs and config
+.streamlit/
+scripts/
+
+# Data files (Optional)
+# Agar aapka CSV file bada hai (>25MB), toh ise ignore karna achha rehta hai
+# Diwali Sales Data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
